@@ -7,6 +7,8 @@ body
 	background-image: url('https://mshaynerush.github.io/Shayne/images/backgroundTech.png');
 	background-repeat: repeat;
 	background-attachment: fixed;
+	width: 100%;
+	height: 100%;
 	color: #000;
 	
 }
